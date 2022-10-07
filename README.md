@@ -1,5 +1,4 @@
 - Wannabe Game Dev
-- Wannabe Web Developer
 - Unix appreciator
 
 <!---
