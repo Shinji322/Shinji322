@@ -1,5 +1,4 @@
-- Wannabe Game Dev
-- Unix appreciator
+- Linux Appreciator
 
 <!---
 Shinji322/Shinji322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
