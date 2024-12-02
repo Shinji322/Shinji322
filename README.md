@@ -1,3 +1,5 @@
+My main profile is located here on: [GitLab](https://gitlab.com/twistedlogic/)
+
 - Linux Appreciator
 
 <!---
